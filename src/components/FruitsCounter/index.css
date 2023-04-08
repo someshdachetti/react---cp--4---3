@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-card {
+  height: 100vh;
+  background-color: #ffd569;
+  border-radius: 10px;
+  width: 100vw;
+}
+.whiteCard {
+  height: 100vh;
+  background-color: white;
+  border-radius: 10px;
+  width: 100vw;
+}
+h1 {
+  color: #000000;
+  font-size: 32px;
+  font-weight: bolder;
+}
